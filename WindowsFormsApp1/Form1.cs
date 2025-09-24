@@ -21,5 +21,10 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("開始學程式");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

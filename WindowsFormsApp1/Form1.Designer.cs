@@ -34,7 +34,7 @@
             // message
             // 
             this.message.Font = new System.Drawing.Font("新細明體", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.message.Location = new System.Drawing.Point(286, 238);
+            this.message.Location = new System.Drawing.Point(241, 152);
             this.message.Name = "message";
             this.message.Size = new System.Drawing.Size(311, 99);
             this.message.TabIndex = 0;
@@ -49,6 +49,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.message);
             this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
