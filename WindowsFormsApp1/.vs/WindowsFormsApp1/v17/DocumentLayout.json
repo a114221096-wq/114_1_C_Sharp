@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF21E3C7-E17D-4BF3-B8F0-D5C89BDB21AC}|WindowsFormsApp1.csproj|C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FF21E3C7-E17D-4BF3-B8F0-D5C89BDB21AC}|WindowsFormsApp1.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FF21E3C7-E17D-4BF3-B8F0-D5C89BDB21AC}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF21E3C7-E17D-4BF3-B8F0-D5C89BDB21AC}|WindowsFormsApp1.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF21E3C7-E17D-4BF3-B8F0-D5C89BDB21AC}|WindowsFormsApp1.csproj|C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF21E3C7-E17D-4BF3-B8F0-D5C89BDB21AC}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
