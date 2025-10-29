@@ -32,15 +32,16 @@ namespace LoginDemo
                     if(String.Compare(password, "123456") == 0)
                     {
                         labelResult.Text = "登入成功";
+                        labelResult.ForeColor = Color.Green;
                     }
                     else
                     {
-                        
+                        labelResult.Text = "密碼錯誤";
                     }
                 }
                 else
                 {
-                    labelResult.Text = "帳號或密碼錯誤";
+                    labelResult.Text = "帳號錯誤";
                 }
             }
     }
