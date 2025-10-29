@@ -1,0 +1,11 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\MultipleConditionDemo.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\MultipleConditionDemo.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\MultipleConditionDemo.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\MultipleConditionDemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\MultipleConditionDemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\bin\Debug\MultipleConditionDemo.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\bin\Debug\MultipleConditionDemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\bin\Debug\MultipleConditionDemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\MultipleConditionDemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\MultipleConditionDemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditionDemo\MultipleConditionDemo\obj\Debug\MultipleConditionDemo.exe.config
