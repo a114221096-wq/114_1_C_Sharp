@@ -78,7 +78,7 @@
             // 
             // buttonCheck
             // 
-            this.buttonCheck.Location = new System.Drawing.Point(30, 158);
+            this.buttonCheck.Location = new System.Drawing.Point(237, 167);
             this.buttonCheck.Name = "buttonCheck";
             this.buttonCheck.Size = new System.Drawing.Size(124, 71);
             this.buttonCheck.TabIndex = 4;
@@ -89,11 +89,11 @@
             // labelResult
             // 
             this.labelResult.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.labelResult.Location = new System.Drawing.Point(40, 232);
+            this.labelResult.Location = new System.Drawing.Point(40, 241);
             this.labelResult.Name = "labelResult";
             this.labelResult.Size = new System.Drawing.Size(510, 50);
             this.labelResult.TabIndex = 5;
-            this.labelResult.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.labelResult.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 

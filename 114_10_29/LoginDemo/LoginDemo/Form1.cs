@@ -25,11 +25,11 @@ namespace LoginDemo
             {
                 labelResult.Text = "請輸入帳號及密碼";
             }
-            else 
+            else
             {
-                if(String.Compare(account, "admin") == 0)
+                if (String.Compare(account, "admin") == 0)
                 {
-                    if(String.Compare(password, "123456") == 0)
+                    if (String.Compare(password, "123456") == 0)
                     {
                         labelResult.Text = "登入成功";
                         labelResult.ForeColor = Color.Green;
@@ -44,5 +44,6 @@ namespace LoginDemo
                     labelResult.Text = "帳號錯誤";
                 }
             }
+        }
     }
 }
